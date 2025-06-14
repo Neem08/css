@@ -1,0 +1,38 @@
+Selectors
+
+. - class Selectors
+# - id selector
+id has to be unique
+
+grouping selectors: h1, h2
+nesting selectors : h1 h2 (h2 under h1)
+
+Casscading style sheet: waterfall
+niche wala apply hoga
+butttt , specificity winss!!
+ex : 
+for 2 p tags in which one has class called gray
+then if
+.gray{
+    color: red
+}
+.
+.
+.
+p{
+    color: blue
+}
+
+the p tag with class gray will have red color onlyy!!!!
+
+
+font size:
+the rem unit is only relative to the document's 
+root element, while the em unit is only relative 
+to the immediate parent of the targeted element
+
+we can use em for padding and column crreations etc
+
+
+
+

@@ -1,4 +1,17 @@
-p{
-    font-size: 64px;
-    color:aquamarine
+body{
+    font-size: 22px;
+    color:bisque
+}
+
+h1{
+    border : 2px dashed blue
+}
+
+
+.para{
+    color: aqua;
+}
+
+#second{
+   color:blue
 }

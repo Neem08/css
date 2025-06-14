@@ -1,0 +1,32 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: box-box;
+}
+
+h1{
+    margin-bottom : 2rem
+}
+
+body{
+    font-size : 2rem;
+    line-height: 1.5;
+    padding: 10%;
+    font-weight: 300;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+/* input,button{
+    font-size: inherit;
+}
+
+
+.form{
+    border: 10px solid rebeccapurple;
+    padding : 1em;
+    margin: 1em;
+    outline: auto;
+    width: 50rem;
+} */
+
